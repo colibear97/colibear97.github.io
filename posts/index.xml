@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Oct 2023 12:40:14 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 14:33:30 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>/posts/third/</link>
+      <pubDate>Sat, 14 Oct 2023 14:33:30 -0400</pubDate>
+      
+      <guid>/posts/third/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Firstpost</title>
-      <link>http://example.org/posts/firstpost/</link>
+      <link>/posts/firstpost/</link>
       <pubDate>Sat, 14 Oct 2023 12:40:14 -0400</pubDate>
       
-      <guid>http://example.org/posts/firstpost/</guid>
-      <description>Hello!</description>
+      <guid>/posts/firstpost/</guid>
+      <description>This is a title This is a subheading It gets smaller as you add This is italics
+bullet one bullet two First Item like this third change to website </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/untitled/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on </title>
+    <link>/about/</link>
+    <description>Recent content in About on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2023 14:40:49 -0400</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Sat, 14 Oct 2023 14:40:49 -0400</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>I (Colin Cannon) work at Ideaventions Academy in Reston Virginia, the highest rated school for STEM education in the state. I work as the uppler level mathmatics and economics teacher. I teach students from grades 6 to 12 starting at Algebra I all the way up to AP Calculus, Statistics, Micro and Macroeconomics. My drive each and every dayis to illuminate how math and reasoning illuminate the truth on how our world behaves.</description>
+    </item>
+    
+  </channel>
+</rss>

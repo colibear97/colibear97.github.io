@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching_resources on </title>
+    <link>/teaching_resources/</link>
+    <description>Recent content in Teaching_resources on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2023 15:08:56 -0400</lastBuildDate><atom:link href="/teaching_resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching_resources</title>
+      <link>/teaching_resources/teaching_resources/</link>
+      <pubDate>Sat, 14 Oct 2023 15:08:56 -0400</pubDate>
+      
+      <guid>/teaching_resources/teaching_resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
